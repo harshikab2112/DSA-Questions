@@ -1,16 +1,14 @@
 # Data Structures and Algorithms (DSA) - Beginner to Advanced
-
+---
 Welcome to the DSA Beginner to Advanced repository! This repo is designed to help you learn Data Structures and Algorithms step-by-step, covering essential concepts such as arrays, linked lists, sorting, recursion, dynamic programming, and more.
 
 This list of DSA topics and questions has been generated with the assistance of ChatGPT to provide a structured learning path from beginner to advanced levels.
 
 ---
 
-🚀 DSA Levels
+## 🚀 DSA Levels
 
----
-
-🟢 Beginner Level
+### 🟢 Beginner Level
 
 Basic Data Structures
 
