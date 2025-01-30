@@ -10,7 +10,7 @@ This list of DSA topics and questions has been generated with the assistance of 
 
 ### 🟢 Beginner Level
 
-Basic Data Structures
+1. Basic Data Structures
 
 📌 Arrays: Definition, operations, traversing
 📌 Strings: Basic operations, palindrome check, anagrams
@@ -58,43 +58,29 @@ Basic Data Structures
 
 🔴 Advanced Level
 
-6. Advanced Tree Data Structures
+#### Advanced Tree Data Structures
+- Binary Search Tree (BST), AVL Tree
+- Segment Tree, Fenwick Tree
 
-🌳 Binary Search Tree (BST), AVL Tree
+#### Advanced Graph Algorithms
+- Dijkstra’s Algorithm, Floyd-Warshall Algorithm
+- Minimum Spanning Tree: Kruskal’s and Prim’s algorithm
+- Network Flow: Ford-Fulkerson algorithm
 
-📊 Segment Tree, Fenwick Tree
+#### Advanced Dynamic Programming
+- Longest Increasing Subsequence (LIS)
+- Matrix Chain Multiplication
+- Traveling Salesman Problem (TSP)
 
-7. Advanced Graph Algorithms
+#### Bit Manipulation and Number Theory
+- Bitwise Operations, XOR Tricks
+- Prime Numbers, Sieve of Eratosthenes
+- Modular Arithmetic, GCD, LCM
 
-🛤️ Dijkstra’s Algorithm, Floyd-Warshall Algorithm
-
-🔗 Minimum Spanning Tree: Kruskal’s and Prim’s algorithm
-
-🌊 Network Flow: Ford-Fulkerson algorithm
-
-8. Advanced Dynamic Programming
-
-📈 Longest Increasing Subsequence (LIS)
-
-📊 Matrix Chain Multiplication
-
-🌍 Traveling Salesman Problem (TSP)
-
-9. Bit Manipulation and Number Theory
-
-🧮 Bitwise Operations, XOR Tricks
-
-🔢 Prime Numbers, Sieve of Eratosthenes
-
-📐 Modular Arithmetic, GCD, LCM
-
-10. Competitive Programming Concepts
-
-📊 Segment Trees, Sparse Tables
-
-📌 Mo’s Algorithm, Heavy-Light Decomposition
-
-🛠️ Trie Data Structure, Suffix Arrays
+#### Competitive Programming Concepts
+- Segment Trees, Sparse Tables
+- Mo’s Algorithm, Heavy-Light Decomposition
+- Trie Data Structure, Suffix Arrays
 
 ---
 
