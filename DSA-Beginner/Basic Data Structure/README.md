@@ -5,6 +5,9 @@ This repository contains a collection of **coding questions** on **Arrays, Strin
 ## 📌 **Questions**
 
 ### **Arrays**
+
+---
+
 #### **Beginner**
 1. Create an array and print all its elements.
 2. Insert an element at a given index in an array.
@@ -37,6 +40,9 @@ This repository contains a collection of **coding questions** on **Arrays, Strin
 25. Find the smallest subarray with a sum greater than a given value.
 
 ### **Strings**
+
+---
+
 #### **Beginner**
 26. Reverse a string without using built-in functions.
 27. Check if a string is a palindrome.
@@ -62,6 +68,9 @@ This repository contains a collection of **coding questions** on **Arrays, Strin
 45. Implement the Rabin-Karp algorithm for pattern matching.
 
 ### **Linked Lists**
+
+---
+
 #### **Beginner**
 46. Implement a singly linked list with basic operations (insert, delete, traverse).
 47. Insert a node at the beginning of a linked list.
