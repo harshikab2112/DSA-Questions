@@ -1,10 +1,8 @@
-# Data Structures and Algorithms Coding Questions
+# Basic Algorithms Coding Questions
 
 This repository contains a collection of **coding questions** on **Basic Algorithms**, ranging from **beginner to advanced** levels. These problems will help you strengthen your understanding of fundamental algorithms.
 
 ## 📌 **Questions**
-
-### **Basic Algorithms**
 
 #### **Searching Algorithms**
 
