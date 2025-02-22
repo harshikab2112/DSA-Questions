@@ -5,7 +5,9 @@ This repository contains a collection of **coding questions** on **Advanced Grap
 ## 📌 **Questions**
 
 ### **Dijkstra’s Algorithm**
-##### **Beginner**
+
+---
+
 1. Implement Dijkstra’s algorithm using a priority queue.
 2. Implement Dijkstra’s algorithm using an adjacency matrix.
 3. Find the shortest path in an unweighted graph using BFS.
@@ -18,7 +20,9 @@ This repository contains a collection of **coding questions** on **Advanced Grap
 10. Implement a Dijkstra-based navigation system.
 
 ### **Floyd-Warshall Algorithm**
-##### **Intermediate**
+
+---
+
 11. Implement the Floyd-Warshall algorithm for all-pairs shortest paths.
 12. Detect negative weight cycles using Floyd-Warshall.
 13. Find the shortest cycle in a directed graph using Floyd-Warshall.
@@ -31,7 +35,9 @@ This repository contains a collection of **coding questions** on **Advanced Grap
 20. Solve the minimum transfer station problem in a subway network.
 
 ### **Minimum Spanning Tree (MST)**
-##### **Advanced**
+
+---
+
 21. Implement Kruskal’s algorithm for MST.
 22. Implement Prim’s algorithm for MST.
 23. Compare Kruskal’s and Prim’s algorithms on sparse graphs.
@@ -44,7 +50,9 @@ This repository contains a collection of **coding questions** on **Advanced Grap
 30. Implement MST with edge constraints.
 
 ### **Network Flow - Ford-Fulkerson Algorithm**
-##### **Expert**
+
+---
+
 31. Implement the Ford-Fulkerson algorithm using DFS.
 32. Implement the Edmonds-Karp algorithm (BFS-based Ford-Fulkerson).
 33. Solve the bipartite matching problem using network flow.
@@ -57,7 +65,9 @@ This repository contains a collection of **coding questions** on **Advanced Grap
 40. Solve the water distribution problem using network flow.
 
 ### **Advanced Graph Problems**
-##### **Expert**
+
+---
+
 41. Implement the Hopcroft-Karp algorithm for maximum bipartite matching.
 42. Solve the minimum-cost maximum-flow problem using network flow.
 43. Implement a capacity scaling algorithm for maximum flow.
