@@ -5,6 +5,9 @@ This repository contains a collection of **coding questions** on **Advanced Dyna
 ## 📌 **Questions**
 
 ### **Longest Increasing Subsequence (LIS)**
+
+---
+
 ##### **Beginner**
 1. Find the length of the Longest Increasing Subsequence (LIS).
 2. Print the Longest Increasing Subsequence.
@@ -18,6 +21,9 @@ This repository contains a collection of **coding questions** on **Advanced Dyna
 10. Solve LIS when elements can be replaced k times.
 
 ### **Matrix Chain Multiplication**
+
+---
+
 ##### **Intermediate**
 11. Implement the Matrix Chain Multiplication problem using recursion.
 12. Implement the Matrix Chain Multiplication problem using DP.
@@ -31,6 +37,9 @@ This repository contains a collection of **coding questions** on **Advanced Dyna
 20. Find the minimum number of insertions to make a string palindrome.
 
 ### **Traveling Salesman Problem (TSP)**
+
+---
+
 ##### **Advanced**
 21. Implement TSP using recursion and bit-masking.
 22. Implement TSP using dynamic programming (O(n² * 2^n)).
@@ -44,6 +53,9 @@ This repository contains a collection of **coding questions** on **Advanced Dyna
 30. Solve TSP where certain edges have toll charges.
 
 ### **Advanced Dynamic Programming Problems**
+
+---
+
 ##### **Expert**
 31. Solve the Weighted Job Scheduling problem using DP.
 32. Implement the Rod Cutting problem using DP.
@@ -67,7 +79,11 @@ This repository contains a collection of **coding questions** on **Advanced Dyna
 50. Implement DP-based solution for the Word Wrap problem.
 
 ### **Bit Manipulation and Number Theory**
+
+---
+
 ##### **Beginner**
+
 51. Implement basic bitwise operations (AND, OR, XOR, NOT, Left Shift, Right Shift).
 52. Count the number of set bits in an integer.
 53. Find the unique element in an array where every other element appears twice.
@@ -75,6 +91,7 @@ This repository contains a collection of **coding questions** on **Advanced Dyna
 55. Check if a number is a power of two.
 
 ##### **Intermediate**
+
 56. Find the XOR of all elements in an array.
 57. Implement the Sieve of Eratosthenes to find all prime numbers up to N.
 58. Compute the Greatest Common Divisor (GCD) using the Euclidean algorithm.
